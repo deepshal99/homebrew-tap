@@ -1,6 +1,6 @@
 cask "notch-so-good" do
-  version "4.4.0"
-  sha256 "863dc97840ecc7592b17ffd498b0471c72b0116064dd9f4e2a7398d89ffe7a60"
+  version "4.5.0"
+  sha256 "477ed90bcd33a9ba28f4f5d4c3d579496f6175efe283b31678b25e2058b49d8b"
 
   url "https://github.com/deepshal99/notch-so-good/releases/download/v#{version}/NotchSoGood-#{version}.zip"
   name "Notch So Good"
